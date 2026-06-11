@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Full-Stack Developer in progress, turning ideas into web applications with modern technologies. Passionate about software engineering, AI, and continuous learning</p>
+<p align="left">Full-Stack Developer in progress, turning ideas into web applications with modern technologies. Passionate about software engineering, AI, and continuous learning .</p>
 
 ###
 
@@ -103,8 +103,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
